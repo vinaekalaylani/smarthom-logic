@@ -1,4 +1,5 @@
-🔌 Simulasi Logika Proposisional AI - Smart Home
+## 🔌 Simulasi Logika Proposisional AI - Smart Home
+
 Proyek mini ini adalah simulasi sederhana untuk memahami bagaimana AI dapat mengambil keputusan dalam sistem smart home menggunakan logika proposisional.
 
 Kita akan belajar bagaimana kombinasi kondisi seperti suhu, keberadaan orang, atau waktu malam hari dapat diproses secara logis untuk menyalakan AC atau lampu.
